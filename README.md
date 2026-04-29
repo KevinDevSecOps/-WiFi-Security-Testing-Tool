@@ -62,20 +62,6 @@ MIT - Solo para uso educativo
 6. **Manejo automático** del modo monitor
 7. **Documentación completa** y advertencias legales
 
-### Para GitHub:
 
-```bash
-# Inicializar repositorio
-git init
-git add .
-git commit -m "Initial commit: WiFi Security Testing Tool"
-
-# Agregar .gitignore
-echo "__pycache__/\n*.pyc\n.env/\nvenv/\n*.log" > .gitignore
-
-# Crear repositorio en GitHub y subir
-git remote add origin https://github.com/tuusuario/wifi-security-tool
-git push -u origin main
-```
 
 Recuerda: Este proyecto es estrictamente para aprendizaje y testing ético. Nunca lo uses en redes sin autorización.
